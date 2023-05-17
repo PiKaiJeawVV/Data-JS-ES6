@@ -1,0 +1,6 @@
+แบบเดิม
+function fullname(fname,lname){
+    return fname+lname
+}
+
+fulllname=(fname,lname)=>fname+lname
